@@ -1,0 +1,26 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "gulp server"
+  },
+  "author": "Krupin Vitaliy",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-cheerio": "^1.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-svg-sprite": "^1.5.0",
+    "gulp-svg-symbols": "^3.2.3",
+    "gulp-ttf2woff": "^1.1.1",
+    "gulp-ttf2woff2": "^3.0.0",
+    "imagemin-jpeg-recompress": "^7.0.0"
+  }
+}
